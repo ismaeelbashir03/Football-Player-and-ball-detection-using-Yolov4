@@ -1,4 +1,10 @@
 # Football-Player-and-ball-detection-using-Yolov4
+
+version: 0.1
+ - processed the images.
+ - detected players and ball very roughly
+ - used color similarity to give a colour to the bounding boxes
+
 Using Yolov4 to detect football players bounding boxes and the football. Will be used for an upcoming project.
 
 TO USE:
