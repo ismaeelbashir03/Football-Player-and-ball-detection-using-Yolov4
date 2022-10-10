@@ -11,4 +11,5 @@ TO USE:
 
 1. Download the yolo weights from: https://drive.google.com/file/d/1YxhuhZwbRhon669bZ1FMK_5WGyQQrAK4/view?usp=sharing
 2. put the file in the yolov4 folder
-3. run the main.py
+3. create a folder in the main directory called 'frames'
+4. run the main.py
